@@ -1,0 +1,33 @@
+---
+title: Try R markdown in Academic
+author: Yibo Wang
+date: '2019-04-11'
+slug: try-r-markdown-in-academic
+categories:
+  - Rmd
+tags:
+  - Demo
+  - Business Analytics
+image:
+  caption: ''
+  focal_point: ''
+---
+
+We fist load some libraries for handling the data.
+```{r}
+library(lubridate)
+library(dplyr)
+```
+
+Let's work on some Ozone data here.
+```{r}
+oz <- datasets::airquality
+summary(oz)
+head(oz)
+```
+
+> All models are wrong but not mine~
+
+Here is a picute:
+
+![should be here ](/post/2019-04-11-try-r-markdown-in-academic_files/MachineLearningAlgorithms.png)

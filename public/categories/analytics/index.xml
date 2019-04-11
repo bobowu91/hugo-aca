@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analytics on Academic</title>
+    <link>/categories/analytics/</link>
+    <description>Recent content in analytics on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to start business analytics with R</title>
+      <link>/post/how-to-start-business-analytics-with-r/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-start-business-analytics-with-r/</guid>
+      <description>Extend your data analytics skill from Excel to R to make whatever you do much faster!!</description>
+    </item>
+    
+  </channel>
+</rss>

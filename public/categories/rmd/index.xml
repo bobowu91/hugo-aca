@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmd on Academic</title>
+    <link>/categories/rmd/</link>
+    <description>Recent content in Rmd on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rmd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Try R markdown in Academic</title>
+      <link>/post/try-r-markdown-in-academic/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/try-r-markdown-in-academic/</guid>
+      <description>We fist load some libraries for handling the data.
+library(lubridate)  ## ## Attaching package: &#39;lubridate&#39;  ## The following object is masked from &#39;package:base&#39;: ## ## date  library(dplyr)  ## ## Attaching package: &#39;dplyr&#39;  ## The following objects are masked from &#39;package:lubridate&#39;: ## ## intersect, setdiff, union  ## The following objects are masked from &#39;package:stats&#39;: ## ## filter, lag  ## The following objects are masked from &#39;package:base&#39;: ## ## intersect, setdiff, setequal, union  Let&amp;rsquo;s work on some Ozone data here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Academic</title>
+    <link>/tags/demo/</link>
+    <description>Recent content in Demo on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to start business analytics with R</title>
+      <link>/post/how-to-start-business-analytics-with-r/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-start-business-analytics-with-r/</guid>
+      <description>Extend your data analytics skill from Excel to R to make whatever you do much faster!!</description>
+    </item>
+    
+    <item>
+      <title>Try R markdown in Academic</title>
+      <link>/post/try-r-markdown-in-academic/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/try-r-markdown-in-academic/</guid>
+      <description>We fist load some libraries for handling the data.
+library(lubridate)  ## ## Attaching package: &#39;lubridate&#39;  ## The following object is masked from &#39;package:base&#39;: ## ## date  library(dplyr)  ## ## Attaching package: &#39;dplyr&#39;  ## The following objects are masked from &#39;package:lubridate&#39;: ## ## intersect, setdiff, union  ## The following objects are masked from &#39;package:stats&#39;: ## ## filter, lag  ## The following objects are masked from &#39;package:base&#39;: ## ## intersect, setdiff, setequal, union  Let&amp;rsquo;s work on some Ozone data here.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>
