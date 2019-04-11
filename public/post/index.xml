@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>This time I try Rmd File</title>
+      <link>/post/this-time-i-try-rmd-file/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/this-time-i-try-rmd-file/</guid>
+      <description>library(lubridate) ## ## Attaching package: &amp;#39;lubridate&amp;#39; ## The following object is masked from &amp;#39;package:base&amp;#39;: ## ## date library(dplyr) ## ## Attaching package: &amp;#39;dplyr&amp;#39; ## The following objects are masked from &amp;#39;package:lubridate&amp;#39;: ## ## intersect, setdiff, union ## The following objects are masked from &amp;#39;package:stats&amp;#39;: ## ## filter, lag ## The following objects are masked from &amp;#39;package:base&amp;#39;: ## ## intersect, setdiff, setequal, union After loading the packages, we obtain the dataset from Dastaset library on Ozone.</description>
+    </item>
+    
+    <item>
       <title>Try R markdown in Academic</title>
       <link>/post/try-r-markdown-in-academic/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>

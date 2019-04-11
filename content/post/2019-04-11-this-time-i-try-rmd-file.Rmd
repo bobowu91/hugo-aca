@@ -1,0 +1,48 @@
+---
+title: This time I try Rmd File
+author: Yibo Wang
+date: '2019-04-11'
+slug: this-time-i-try-rmd-file
+categories:
+  - Rmd
+tags:
+  - Business Analytics
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{r}
+library(lubridate)
+library(dplyr)
+```
+
+After loading the packages, we obtain the dataset from Dastaset library on Ozone.
+
+```{r}
+oz <- datasets::airquality
+summary(oz)
+```
+
+```{r}
+plot(oz$Month, oz$Ozone)
+```
+
+
+
+
+> All models are wrong but some are useful!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
