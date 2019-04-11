@@ -1,29 +1,26 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Continuous learning and sharing is what I do.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: M.Sc in Business Analytics
+    institution: Ivey Business School, Western University, Canada
+    year: 2019
+  - course: B.Eng in ELectrical and Electronics Engineering
+    institution: Nanayang Technological University, Singapore
+    year: 2016
+email: "ywang.msc2019@ivey.ca"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Business Analytics
+- Data Visualization
+- Machine Learning 
+- Communication & Storytelling
+name: Yibo Wang
 organizations:
-- name: Stanford University
+- name: Ivey Business School, Western University
   url: ""
-role: Professor of Artificial Intelligence
+role: MSc in Business Analytics
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +40,14 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yibo Wang is a recent graduate of MSc in Business Analytics from Ivey Business School at Western University in Canada. His main area of interest is to apply cutting edge technologies, including advanced analytics and machine learning algorithms to drive business growth and deliver real impacts with data-driven decisions. He learned about a wide variety of applications of big data analytics through different business cases at school and work experiences. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to coming to Canada, he was working as an assistant brand manager at Procter & Gamble in Singapore. He also obtained his Bachelor's Degree in Electrical & Electronics Engineering from Nanyang Technological University as a full scholarship recipient.
+
+
+
+
+
+
+
+

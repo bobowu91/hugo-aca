@@ -25,11 +25,29 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
+
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Tableau"
   description = "10%"
 
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Predictive Analytics"
+  description = "10%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Optimization"
+  description = "10%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Simulation and Risk Analysis"
+  description = "10%"
 +++
