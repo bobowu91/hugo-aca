@@ -33,7 +33,7 @@ There are multiple ways that you can work with H2O in R. I am going to introduce
 
 Open Rstutio and run the code below.
 
-```{r}
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
 install.packages("h2o")
 ```
 
