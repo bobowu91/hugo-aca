@@ -1,0 +1,53 @@
+---
+title: H2O with R Part 1
+author: Yibo Wang
+date: '2019-04-14'
+slug: h2o-with-r-part-1
+categories:
+  - R
+  - Modelling
+  - Machine Learning
+  - H2O
+tags:
+  - Business Analytics
+  - Modelling
+  - R
+  - H2O
+  - Machine Learning
+  - big data
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+
+
+Today I have run into H2O again in a blog post. It is well known for its speed in model calculations because the whole H2O machine learning framework is written in Java and all calculations are thus optimized for speedy performance.
+
+In case you never deal with Java before, it is a general purpose programming language that could do many things from developing a game to builidng a web scrapping tool. Unlike R or Python, running Java codes requires a compiler which runs codes and allocate memories more efficiently.
+
+When working with H2O in R, we don't actually load data sets into R environment and perform calcualtions in R, instead we will import H2O data object into Java and calculate everyhing in a Java environment, which makes the "learning" process in machine learning much faster.
+
+There are multiple ways that you can work with H2O in R. I am going to introduce the most straightforward way, which is to install H2O package from CRAN.
+
+Open Rstutio and run the code below.
+
+```{r}
+install.packages("h2o")
+```
+
+Bear in mind that many packages in CRAN are not the most up-to-date version. You could visit the H2O.ai website for the most recent release of their framework or try any cool features in their beta testing version.
+
+
+After the installation, loading the library into R and initiate H2O. 
+
+```{r}
+library("h2o")
+h2o.init()
+```
+
+
+
+
+
