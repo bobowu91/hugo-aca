@@ -21,6 +21,9 @@ image:
 ---
 
 
+```{r, eval=FALSE}
+
+```
 
 
 Today I have run into H2O again in a blog post. It is well known for its speed in model calculations because the whole H2O machine learning framework is written in Java and all calculations are thus optimized for speedy performance.
@@ -34,7 +37,7 @@ There are multiple ways that you can work with H2O in R. I am going to introduce
 Open Rstutio and run the code below.
 
 ```{r eval=FALSE}
-install.packages("h2o")
+install.packages(h2o,repos='http://cran.us.r-project.org')
 ```
 
 Bear in mind that many packages in CRAN are not the most up-to-date version. You could visit the H2O.ai website for the most recent release of their framework or try any cool features in their beta testing version.
