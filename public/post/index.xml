@@ -6,10 +6,20 @@
     <description>Recent content in Posts on BOBOWU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>H2O with R Part 1</title>
+      <link>/post/h2o-with-r-part-1/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/h2o-with-r-part-1/</guid>
+      <description>Today I have run into H2O again in a blog post. It is well known for its speed in model calculations because the whole H2O machine learning framework is written in Java and all calculations are thus optimized for speedy performance.
+In case you never deal with Java before, it is a general purpose programming language that could do many things from developing a game to builidng a web scrapping tool.</description>
+    </item>
     
     <item>
       <title>How to start business analytics with R</title>

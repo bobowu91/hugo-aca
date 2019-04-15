@@ -35,6 +35,73 @@ Click on the **Slides** button above to view the built-in slides feature.
     </item>
     
     <item>
+      <title>H2O with R Part 1</title>
+      <link>/post/h2o-with-r-part-1/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/h2o-with-r-part-1/</guid>
+      <description>
+
+
+&lt;p&gt;Today I have run into H2O again in a blog post. It is well known for its speed in model calculations because the whole H2O machine learning framework is written in Java and all calculations are thus optimized for speedy performance.&lt;/p&gt;
+&lt;p&gt;In case you never deal with Java before, it is a general purpose programming language that could do many things from developing a game to builidng a web scrapping tool. Unlike R or Python, running Java codes requires a compiler which runs codes and allocate memories more efficiently.&lt;/p&gt;
+&lt;p&gt;When working with H2O in R, we don’t actually load data sets into R environment and perform calcualtions in R, instead we will import H2O data object into Java and calculate everyhing in a Java environment, which makes the “learning” process in machine learning much faster.&lt;/p&gt;
+&lt;p&gt;There are multiple ways that you can work with H2O in R. I am going to introduce the most straightforward way, which is to install H2O package from CRAN.&lt;/p&gt;
+&lt;p&gt;Open Rstutio and run the code below.&lt;/p&gt;
+&lt;p&gt;Bear in mind that many packages in CRAN are not the most up-to-date version. You could visit the H2O.ai website for the most recent release of their framework or try any cool features in their beta testing version.&lt;/p&gt;
+&lt;p&gt;After the installation, loading the library into R and initiate H2O.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(&amp;quot;h2o&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## ----------------------------------------------------------------------
+## 
+## Your next step is to start H2O:
+##     &amp;gt; h2o.init()
+## 
+## For H2O package documentation, ask for help:
+##     &amp;gt; ??h2o
+## 
+## After starting H2O, you can use the Web UI at http://localhost:54321
+## For more information visit http://docs.h2o.ai
+## 
+## ----------------------------------------------------------------------&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;h2o&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following objects are masked from &amp;#39;package:stats&amp;#39;:
+## 
+##     cor, sd, var&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following objects are masked from &amp;#39;package:base&amp;#39;:
+## 
+##     &amp;amp;&amp;amp;, %*%, %in%, ||, apply, as.factor, as.numeric, colnames,
+##     colnames&amp;lt;-, ifelse, is.character, is.factor, is.numeric, log,
+##     log10, log1p, log2, round, signif, trunc&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;h2o.init()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  Connection successful!
+## 
+## R is connected to the H2O cluster: 
+##     H2O cluster uptime:         12 minutes 58 seconds 
+##     H2O cluster timezone:       America/Toronto 
+##     H2O data parsing timezone:  UTC 
+##     H2O cluster version:        3.22.1.1 
+##     H2O cluster version age:    3 months and 17 days !!! 
+##     H2O cluster name:           H2O_started_from_R_BOYA_rvt167 
+##     H2O cluster total nodes:    1 
+##     H2O cluster total memory:   0.88 GB 
+##     H2O cluster total cores:    4 
+##     H2O cluster allowed cores:  4 
+##     H2O cluster healthy:        TRUE 
+##     H2O Connection ip:          localhost 
+##     H2O Connection port:        54321 
+##     H2O Connection proxy:       NA 
+##     H2O Internal Security:      FALSE 
+##     H2O API Extensions:         XGBoost, Algos, AutoML, Core V3, Core V4 
+##     R Version:                  R version 3.5.3 (2019-03-11)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning in h2o.clusterInfo(): 
+## Your H2O cluster version is too old (3 months and 17 days)!
+## Please download and install the latest version from http://h2o.ai/download/&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to start business analytics with R</title>
       <link>/post/how-to-start-business-analytics-with-r/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
@@ -282,16 +349,6 @@ rm Untitled.md
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
