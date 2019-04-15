@@ -1,0 +1,18 @@
+---
+title: can other install packages work
+author: Yibo Wang
+date: '2019-04-14'
+slug: can-other-install-packages-work
+categories:
+  - R
+tags:
+  - Business Analytics
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{r}
+install.packages("")
+```
+
