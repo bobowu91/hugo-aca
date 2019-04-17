@@ -6,10 +6,40 @@
     <description>Recent content in Posts on BOBOWU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post Agenda</title>
+      <link>/post/post-agenda/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post-agenda/</guid>
+      <description>I have experimented with a few exciting things that I always wanted to try.
+To share with the world and also keep track of what I did. I am going to put them here. so this blog is first of all a note for myself and you might just find something interesting about it that you would like to keep in mind.
+there will be a few sections for my blog</description>
+    </item>
+    
+    <item>
+      <title>new post</title>
+      <link>/post/new-post/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-post/</guid>
+      <description> hey hey this is a new post but how do I upload it?
+install.packages(&amp;quot;abc&amp;quot;) install.packages(&amp;quot;h2o&amp;quot;) </description>
+    </item>
+    
+    <item>
+      <title>Do I need to click build website every time?</title>
+      <link>/post/do-i-need-to-click-build-website-every-time/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/do-i-need-to-click-build-website-every-time/</guid>
+      <description>see if this one will be uploaded.</description>
+    </item>
     
     <item>
       <title>H2O with R Part 1</title>
@@ -19,6 +49,15 @@
       <guid>/post/h2o-with-r-part-1/</guid>
       <description>Today I have run into H2O again in a blog post. It is well known for its speed in model calculations because the whole H2O machine learning framework is written in Java and all calculations are thus optimized for speedy performance.
 In case you never deal with Java before, it is a general purpose programming language that could do many things from developing a game to builidng a web scrapping tool.</description>
+    </item>
+    
+    <item>
+      <title>can other install packages work</title>
+      <link>/post/can-other-install-packages-work/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/can-other-install-packages-work/</guid>
+      <description></description>
     </item>
     
     <item>

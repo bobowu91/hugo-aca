@@ -1,0 +1,25 @@
+---
+title: new post
+author: Yibo Wang
+date: '2019-04-17'
+slug: new-post
+categories:
+  - Modelling
+tags:
+  - Business Analytics
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+hey hey this is a new post but how do I upload it?
+
+```{r eval=FALSE}
+install.packages("abc")
+```
+
+```{r eval=FALSE}
+install.packages("h2o")
+```
+

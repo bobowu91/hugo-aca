@@ -15,6 +15,7 @@ image:
 
 We fist load some libraries for handling the data.
 
+
 ```r
 library(lubridate)
 ```

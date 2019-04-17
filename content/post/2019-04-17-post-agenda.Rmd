@@ -1,0 +1,63 @@
+---
+title: Post Agenda
+author: Yibo Wang
+date: '2019-04-17'
+slug: post-agenda
+categories: []
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+I have experimented with a few exciting things that I always wanted to try.
+
+To share with the world and also keep track of what I did. I am going to put them here. so this blog is first of all a note for myself and you might just find something interesting about it that you would like to keep in mind.
+
+there will be a few sections for my blog
+
+R 
+- data wrangling with dplyr
+- plotting with ggplot2
+- handling time with lubridate 
+- handling string with stringr
+- base R function; apply family 
+- R markdown => HTML and Presentation
+- hosting your R markdown HTML file online and start your blog today !!
+
+Modelling with R 
+- linear regression
+- logistic regression
+- survival analysis 
+- association rules mining (basket analysis + FRM)
+- random number generation and simulation in R
+- markov chain analysis with R
+- social network analysis with R
+- k-means clustering with R and how to evaluate clusters
+
+I want to learn:
+
+H2O with R
+Ensemble approach with H20
+
+
+
+
+
+
+Projects:
+
+Python & deep learning 
+- time-series predication with LSTM in python 
+
+Optimization with excel solver
+
+
+
+Visualization
+
+
+
+
+
